@@ -1,0 +1,18 @@
+{
+    "name": "ScriptableObjectTags.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5092b4444c842934d9eef7ed06544f9b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

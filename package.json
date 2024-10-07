@@ -1,0 +1,21 @@
+{
+  "name": "com.legeodo.scriptableobjecttags",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object Tags",
+  "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Legerdo/ScriptableObjectTags.git",
+    "revision": "main"
+  },
+  "samples":
+  [
+      {
+          "displayName": "Demo",
+          "path": "Samples~/Demo"
+      }
+  ]  
+}
